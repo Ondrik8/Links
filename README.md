@@ -94,3 +94,7 @@
 
 - [Wireless Networks and RF Devices ](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless.md)
 
+
+
+### Very nice OSCP [resourse](https://hackingandsecurity.blogspot.com/)
+
