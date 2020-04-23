@@ -1,7 +1,7 @@
 
 
 
-### Samples malvare
+### Samples malware
 
 https://app.any.run/
 
