@@ -1,5 +1,10 @@
+# castom searche
 
+https://start.me/p/rxRbpo/ti
 
+### pastesearch
+
+https://netbootcamp.org/pastesearch.html#gsc.tab=0
 
 ### Samples malware
 
