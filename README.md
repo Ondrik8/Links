@@ -30,7 +30,7 @@ https://sushant747.gitbooks.io/total-oscp-guide/cmd.html
 
 https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows
 
-### Carding
+### Carding/hacking
 
 https://pastebin.com/u/MrRoyosBins/1
 
