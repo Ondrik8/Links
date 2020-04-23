@@ -12,9 +12,13 @@ https://app.any.run/
 
 ### Cool Blog`s
 
+https://t43wiu6.github.io/
+
 https://homjxi0e.wordpress.com/
 
 ### China Pentesters course
+
+- https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme_en.md #### [Full](https://raw.githubusercontent.com/alphaSeclab/sec-tool-list/master/Readme_full_en.md)
 
 - https://3gstudent.github.io/
 
