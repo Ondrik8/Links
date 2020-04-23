@@ -1,3 +1,34 @@
+
+
+
+### Samples malvare
+
+https://app.any.run/
+
+### Cool Blog`s
+
+https://homjxi0e.wordpress.com/
+
+### China Pentesters course
+
+- https://3gstudent.github.io/
+
+- https://www.lshack.cn/772/
+
+### hack tricks
+
+https://book.hacktricks.xyz/
+
+### OSCP good 
+
+https://sushant747.gitbooks.io/total-oscp-guide/cmd.html
+
+https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows
+
+### Carding
+
+https://pastebin.com/u/MrRoyosBins/1
+
 ##  GitHub Great Links
 
 
