@@ -1,3 +1,5 @@
+# [FREE_for_DEV-ops](https://free-for.dev/#/?id=free-fordev)
+
 # [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 
 
