@@ -1,3 +1,38 @@
+## Search tools
+
+[https://archive.org/](https://archive.org/)
+
+[https://the-eye.eu/](https://the-eye.eu/)
+
+[https://eyedex.org/](https://eyedex.org/)
+
+[https://odcrawler.xyz/](https://odcrawler.xyz/)
+
+[http://lendx.org/](http://lendx.org/)
+
+[https://www.filechef.com/](https://www.filechef.com/)
+
+[https://ewasion.github.io/opendirectory-finder/](https://ewasion.github.io/opendirectory-finder/)
+
+[https://lumpysoft.com/](https://lumpysoft.com/)
+
+[https://www.eyeofjustice.com/od/](https://www.eyeofjustice.com/od/)
+
+[https://opendirsearch.abifog.com/](https://opendirsearch.abifog.com/)
+
+[https://doyou.needmorehdd.space/](https://doyou.needmorehdd.space/)
+
+[https://filepursuit.com/](https://filepursuit.com/)
+
+[https://www.catfiles.net/](https://www.catfiles.net/)
+
+[http://www.filesearching.com/](http://www.filesearching.com/)
+
+[https://open-directory-downloader.herokuapp.com/](https://open-directory-downloader.herokuapp.com/)
+
+[https://www.filechef.com/](https://www.filechef.com/)
+
+
 # [FREE_for_DEV-ops](https://free-for.dev/#/?id=free-fordev)
 
 # [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
