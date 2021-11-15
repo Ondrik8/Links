@@ -5,6 +5,18 @@ https://www.geoffchappell.com/index.htm
 ### очень интересный блог
 https://blog.didierstevens.com/
 
+
+### колекция техник инжекта)
+https://github.com/snovvcrash/DInjector
+
+
+###  WMI attack (real sheet)
+
+https://0xinfection.github.io/posts/
+
+### COOL XRэнь
+
+https://attackdefense.com/listingnoauth?labtype=windows-post-exploitation&subtype=windows-post-exploitation-metasploit
 ````
 Phase 2 – Web and Server Technology
 
