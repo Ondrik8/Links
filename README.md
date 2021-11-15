@@ -1,3 +1,10 @@
+### внутренности windows
+https://www.geoffchappell.com/index.htm
+
+
+### очень интересный блог
+https://blog.didierstevens.com/
+
 ````
 Phase 2 – Web and Server Technology
 
