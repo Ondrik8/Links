@@ -17,6 +17,10 @@ https://0xinfection.github.io/posts/
 ### COOL XRэнь
 
 https://attackdefense.com/listingnoauth?labtype=windows-post-exploitation&subtype=windows-post-exploitation-metasploit
+
+### Malicious Command-Line
+
+https://github.com/3CORESec/MAL-CL/tree/master/Descriptors/Windows
 ````
 Phase 2 – Web and Server Technology
 
